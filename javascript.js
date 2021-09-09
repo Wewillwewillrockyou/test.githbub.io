@@ -1,2 +1,2 @@
-console.log(1+6+9)
+console.clear()
 console.log(document.cookie)
